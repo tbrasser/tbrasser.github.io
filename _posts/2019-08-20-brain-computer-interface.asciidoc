@@ -1,5 +1,7 @@
-=title
+=brain computer interface 
+
 Rules
+
 . Open source hardware software 
 . Decentralised Internet (no ads) 
 . 
